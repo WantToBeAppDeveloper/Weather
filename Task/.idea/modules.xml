@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qwerty.iml" filepath="$PROJECT_DIR$/.idea/modules/qwerty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qwerty_main.iml" filepath="$PROJECT_DIR$/.idea/modules/qwerty_main.iml" group="qwerty" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qwerty_test.iml" filepath="$PROJECT_DIR$/.idea/modules/qwerty_test.iml" group="qwerty" />
+    </modules>
+  </component>
+</project>
